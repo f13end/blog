@@ -4,6 +4,6 @@ title: Hakkımda
 permalink: /about/
 ---
 
-### Contact me
+### Iletisim
 
 [3438@pm.me](mailto:3438@pm.me)
