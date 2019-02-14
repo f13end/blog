@@ -51,3 +51,8 @@ HoloFuel ile aynı anda başka bir agent'in hesabını kredilendirmeden agent he
 - **HoloFuel**'in geçerli işlemlerini yapabilmek için hem hesabın kaynak zincirini hem de özel anahtarların bulundurulması gerekir.
 
 Bu tanıtımın **Holo ve HoloFuel** Hesapları hakkında bilgi isteyenler için yararlı olacağını umuyoruz. Gelecek hafta daha teknik bir yazı gelecek ve topluluğumuzun bazı teknik sorularına cevap vermek için AMA'da geliştiricilerimizden bir veya daha fazlasının yanımızda olmasını planlıyoruz. Her zaman olduğu gibi, girişinizi ve geri bildirimlerinizi **memnuniyetle** karşılıyoruz.
+
+> Bu makale Mary Camacho'nun Wallets vs. Exchange Accounts vs. Holo(Fuel) Accounts adlı makalesinden ( https://medium.com/h-o-l-o/wallets-vs-exchange-accounts-vs-holo-fuel-accounts-60c10ff1b946 ) siz degerli Holochain Türkiye aile için Türkçe'ye çevrilmiştir.
+
+Kusurumuz olduysa affola,
+coinciyiz / -**f13end**
