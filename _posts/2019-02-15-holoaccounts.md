@@ -16,7 +16,7 @@ Hesaplarda ortaya çıkabilecek sorunlar, kripto'nun vahşi batısında daha da 
 
 # - Cüzdanlar (wallets)
 
-İki temel cüzdan kategorisi vardır:** soğuk** olan; genellikle özel anahtarların tamamen çevrimdışı olduğu ve Internet bağlantısı olan cihazlarda çalışan sıcak olanları. Soğuk depo seçenekleri arasında kağıt cüzdanlar ve donanım cüzdanları; **sıcak** cüzdan seçenekleri arasında **mobil cüzdanlar, masaüstü cüzdanlar ve çevrimiçi (web) cüzdanlar bulunur.**
+İki temel cüzdan kategorisi vardır: **soğuk** olan; genellikle özel anahtarların tamamen çevrimdışı olduğu ve Internet bağlantısı olan cihazlarda çalışan sıcak olanları. Soğuk depo seçenekleri arasında kağıt cüzdanlar ve donanım cüzdanları; **sıcak** cüzdan seçenekleri arasında **mobil cüzdanlar, masaüstü cüzdanlar ve çevrimiçi (web) cüzdanlar bulunur.**
 
 Kripto para oluşturma işleminin temel nedenlerinden biri, sahibinin kendi parasını koruyabilmesi ve bunu yapmak için başka bir güvenilir üçüncü tarafa bağımlı olması gerekmemesidir. Sıcak veya Soğuk cüzdan seçenekleri arasındaki seçenekler temel olarak hız ve verimliliği güvenlik endişeleriyle karşılaştırır.
 
