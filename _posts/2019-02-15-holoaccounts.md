@@ -6,7 +6,7 @@ title: Cüzdanlar, Borsa Hesapları ve Holo Hesapları
 #### Geçtiğimiz haftalarda kimliğinizi kontrol etme , verilerinize sahip olma ve hesabınız için hem çekirdek hem de özel anahtar bulundurma konusunda konuşuyorduk. Ama bu ne anlama geliyor? Bu yazıda, cüzdanların, hesap alışverişlerinin ve HoloFuel hesaplarının çalışma şeklini daha da tanımlamayı ve her birinin uyguladığı güvenlik mekanizmalarını keşfetmeyi hedefliyoruz.
 
 
-![](images/holo.JPG)
+![](/images/holo.JPG)
 
 **Early Crypto** meraklıları arasında ortak bir iddia vardı: “**Özel anahtarlara sahip değilseniz, bitcoinlere sahip değilsiniz.”** Bu anlayış, temel olarak ulusal para sistemlerinin ana eleştirilerinden birinin bir uzantısıdır; İnsanlar, bir bankada veya bankanın kendisi veya hatta devlet kurumları tarafından değiştirilebilecek açık ve erişilebilir bir hesapta saklanırsa, kontrolün gerçekten birinin kendi ulusal fiat parasına sahip olduğunu sorguluyorlar.
 
