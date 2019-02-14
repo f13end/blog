@@ -5,6 +5,9 @@ title: Cüzdanlar, Borsa Hesapları ve Holo Hesapları
 
 #### Geçtiğimiz haftalarda kimliğinizi kontrol etme , verilerinize sahip olma ve hesabınız için hem çekirdek hem de özel anahtar bulundurma konusunda konuşuyorduk. Ama bu ne anlama geliyor? Bu yazıda, cüzdanların, hesap alışverişlerinin ve HoloFuel hesaplarının çalışma şeklini daha da tanımlamayı ve her birinin uyguladığı güvenlik mekanizmalarını keşfetmeyi hedefliyoruz.
 
+
+![](images/holo.JPG)
+
 **Early Crypto** meraklıları arasında ortak bir iddia vardı: “**Özel anahtarlara sahip değilseniz, bitcoinlere sahip değilsiniz.”** Bu anlayış, temel olarak ulusal para sistemlerinin ana eleştirilerinden birinin bir uzantısıdır; İnsanlar, bir bankada veya bankanın kendisi veya hatta devlet kurumları tarafından değiştirilebilecek açık ve erişilebilir bir hesapta saklanırsa, kontrolün gerçekten birinin kendi ulusal fiat parasına sahip olduğunu sorguluyorlar.
 
 Hesaplarda ortaya çıkabilecek sorunlar, kripto'nun vahşi batısında daha da problemlidir. İlk güvenlik protokolleri ve bankacılık endüstrisinin tabi olduğu düzenleyici gözetim olmadan, borsalar ve bunların içindeki hesaplar birçok kesmenin hedefi olmuştur. Hackchain kripto para alım satım borsalarının bir listesi olan **Blockchain Mezarlığı (Blockchain Graveyard)** büyümeye devam ediyor. CipherTrace'nin endüstri raporunda bildirildiği gibi korsanların kripto para birimi borsalarından ve diğer platformlardan çalınan **927 milyon dolar**ın üzerinde olması, kripto para sahiplerinin çeşitli platformlarda barındırıldıklarında fonlarının güvenliği ve bütünlüğü konusunda endişeli olmaları için kesinlikle haklı.
