@@ -48,7 +48,6 @@ Bu Kapalı Alfa Testnet için bir araya gelen her şey için heyecanlıyız. Gel
 HoloPortlarin topluluğumuzdaki birçok kişi için, özellikle de IGG destekçileri için önemli bir kilometre taşı olduğunu biliyoruz. HoloPortlar, dağıtım merkezlerine yerleştirilmeden önce son montajın adımlarını attığından ekibimizin çoğu HoloPort sahiplerinin harika bir deneyim sağladigindan emin olmak için nelerin gerekli olduğuna odaklanıyor. Yukarıda listelenen bileşenlerin kapsamlı bir şekilde test edilmesi HoloPortlarin yakında inandığımız vizyon ve değerle ilgili olarak alacağı yegane şeydir.
 
 **Holo yaklaşan kilometre taşları şunlardır:**
-
      HoloPortlar, Distribütörlere ve Son Kullanıcılara sevk edilmesi
      Holo Açık Alfa Testnet
      Holo Tam Özellikli Testnet
