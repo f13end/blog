@@ -1,5 +1,7 @@
-# Holo Kapalı Alfa Testnet Tanıtımı
-
+---
+layout: post
+title: Holo Kapalı Alfa Testnet Tanıtımı
+---
 
 **Holo ağı,** Holochain'in yeni dağıtılmış uygulama ortamından internetin merkezi dünyasına bir köprüdür. Kapalı Alfa Testnetimizin piyasaya sürülmesiyle birlikte, İnternet tarayıcılarında erişilebilen dağıtılmış Holochain uygulamalarının uçtan uca bir testi için gerekli anahtar bileşenleri ve uygulamaları başlatıyoruz. Daha önce hiç yapılmamış ve teknolojideki yenilikleri kullanarak **gizlilik ve kontrol** alanındaki yenilikleri günlük internet kullanıcılari için kullanılabilir hale getiriyoruz. 
 
